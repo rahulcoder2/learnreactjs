@@ -7,7 +7,6 @@ function App() {
 
   let [counter, setcounter] = useState(false)
 
-  // let counter = 5
 
   // exciseses no 1
 
